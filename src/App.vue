@@ -5,8 +5,8 @@
 </template>
 
 <script>
-import "./base";
-export default {};
+import './base'
+export default {}
 </script>
 
 <style lang="scss"></style>

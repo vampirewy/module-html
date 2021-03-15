@@ -1,7 +1,7 @@
-import routes from "./routes";
+import routes from './routes'
 
 export default {
-  name: "module-html",
+  name: 'module-html',
   routes,
-  init() {}
-};
+  init() {},
+}
